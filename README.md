@@ -1,8 +1,10 @@
 # BundleFusion-
 
 # Windows kinect One(V2)配置
-### 基本环境要求
+### 基本环境要求及参考
 VS2013 + Cuda 8.0/Cuda10.0 + OpenCV3.0.0 
+
+[初始配置参考文章](https://zhoujie1994.cn/2019/04/12/21/)
 
 ### 连接Kinect one 出现卡住的情况
 
